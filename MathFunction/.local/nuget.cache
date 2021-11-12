@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DQW9r/5h0pt4DT8qSpFGe6/v3ZRjtOyXxREWtzhOvlnAUZQ0Hilxfm6iZ3q98mIaSjyHKQwOJDCmwCeLtfEGmQ==",
+  "dgSpecHash": "rh7DWKH7jwlHsmMh00JwAE1dc1Q7yB0Nn1sm3U0jKGjglCPeIHZkB6cAbWPRYMhdOvAFyGbZSaLoURaMrr5+Hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GoDroids Educado\\Documents\\UiPath\\MathFunction\\.local\\",
+  "projectFilePath": "C:\\Users\\GoDroids Educado\\RPAGitTest123\\MathFunction\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\GoDroids Educado\\.nuget\\packages\\bitmiracle.docotic.pdf\\7.5.11645\\bitmiracle.docotic.pdf.7.5.11645.nupkg.sha512",
     "C:\\Users\\GoDroids Educado\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",

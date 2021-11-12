@@ -5342,9 +5342,9 @@
     "restore": {
       "projectUniqueName": "MathFunction",
       "projectName": "MathFunction",
-      "projectPath": "C:\\Users\\GoDroids Educado\\Documents\\UiPath\\MathFunction\\.local",
+      "projectPath": "C:\\Users\\GoDroids Educado\\RPAGitTest123\\MathFunction\\.local",
       "packagesPath": "C:\\Users\\GoDroids Educado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GoDroids Educado\\Documents\\UiPath\\MathFunction\\.local"
+      "outputPath": "C:\\Users\\GoDroids Educado\\RPAGitTest123\\MathFunction\\.local"
     },
     "frameworks": {
       "net461": {
